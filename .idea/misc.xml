@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Denisa Mei Linda S/Documents/STIMATA/Semester 3/9. Prak. pem. Piranti bergerak/Tugas/Tugas Pertemuan 9/IntentDenisa20310018/app/src/main/res/layout/activity_back.xml" value="0.1" />
         <entry key="..\:/Users/Denisa Mei Linda S/Documents/STIMATA/Semester 3/9. Prak. pem. Piranti bergerak/Tugas/Tugas Pertemuan 9/IntentDenisa20310018/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
-        <entry key="..\:/Users/Denisa Mei Linda S/Documents/STIMATA/Semester 3/9. Prak. pem. Piranti bergerak/Tugas/Tugas Pertemuan 9/IntentDenisa20310018/app/src/main/res/layout/activity_move.xml" value="0.1" />
+        <entry key="..\:/Users/Denisa Mei Linda S/Documents/STIMATA/Semester 3/9. Prak. pem. Piranti bergerak/Tugas/Tugas Pertemuan 9/IntentDenisa20310018/app/src/main/res/layout/activity_move.xml" value="0.22" />
+        <entry key="..\:/Users/Denisa Mei Linda S/Documents/STIMATA/Semester 3/9. Prak. pem. Piranti bergerak/Tugas/Tugas Pertemuan 9/IntentDenisa20310018/app/src/main/res/layout/activity_move_with_data.xml" value="0.1" />
       </map>
     </option>
   </component>
