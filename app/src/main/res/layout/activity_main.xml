@@ -30,6 +30,30 @@
         android:id="@+id/btn_move_with_data"
         android:layout_marginTop="20dp"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dial_number"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:id="@+id/btn_dial_number"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/move_with_result"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:id="@+id/btn_result"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/result_from_activity"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:id="@+id/tv_result"/>
+
 
 
 </LinearLayout>

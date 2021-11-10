@@ -3,12 +3,12 @@
     <string name="move_activity">UNIVERSITAS MAHASISWA</string>
     <string name="move_with_data">BIODATA MAHASISWA</string>
     <string name="dial_number">PANGGIL TELEPON</string>
-    <string name="move_with_result">PINDAH AKTIVITI UNTUK RESULT</string>
+    <string name="move_with_result">METODE PEMBELAJARAN</string>
     <string name="result_from_activity">HASIL DARI AKTIVITI</string>
-    <string name="choose_color">PILIH WARNA YANG KAMU SUKA</string>
-    <string name="_blue">BIRU</string>
-    <string name="_yellow">KUNING</string>
-    <string name="_red">MERAH</string>
+    <string name="choose_color">PILIH METODE PEMBELAJARAN</string>
+    <string name="tatap_muka">TATAP MUKA</string>
+    <string name="_online">ONLINE</string>
+    <string name="_offline">OFFLINE</string>
     <string name="choose">PILIH</string>
     <string name="data_received">20.31.0018</string>
     <string name="this_ismove_activity">STMIK PPKIA PRADNYA PARAMITA</string>
